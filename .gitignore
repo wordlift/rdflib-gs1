@@ -1,5 +1,6 @@
 *
 
+!.github/
 !rdflib_gs1/
 !scripts/create.py
 !.gitignore
