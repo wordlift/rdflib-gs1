@@ -14,7 +14,7 @@ with the GS1 Web Vocabulary using RDFLib, a powerful library for working with RD
 Install the library via pip:
 
 ```bash
-pip install gs1-rdflib
+pip install rdflib-gs1
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ python
 
 ```python
 import rdflib
-from gs1_rdflib import GS1
+from rdflib_gs1.namespace import GS1
 
 # Create a graph
 g = rdflib.Graph()
